@@ -1,0 +1,22 @@
+{
+  "name": "asts",
+  "version": "0.0.1",
+  "description": "A general abstract typing solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "homepage": "https://github.com/zhanbei/asts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanbei/asts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhanbei/asts/issues"
+  },
+  "author": "Fisher",
+  "license": "ISC"
+}
